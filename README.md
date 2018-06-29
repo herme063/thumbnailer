@@ -2,7 +2,7 @@
 a batch script to generate thumbnails in place
 
 ## Prerequisites
-Make sure to [imagemagick](https://www.imagemagick.org/script/download.php) first with ffmpeg.
+Make sure to install [imagemagick](https://www.imagemagick.org/script/download.php) first with ffmpeg.
 
 ## Usage
 Drop the script file in a folder containing videos, then run it. It will generate animated thumbnails.
